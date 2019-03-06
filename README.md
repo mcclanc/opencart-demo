@@ -1,2 +1,3 @@
 # opencart-demo
-OpenCart Demo Source
+
+OpenCart Demo Application
